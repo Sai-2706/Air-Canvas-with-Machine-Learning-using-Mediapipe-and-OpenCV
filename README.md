@@ -1,7 +1,7 @@
 # Air-Canvas-with-Machine-Learning-using-Mediapipe-and-OpenCV
 
 Project Overview
-In this project, you'll build an innovative Air Canvas that allows users to draw in the air using simple hand gestures, leveraging computer vision and machine learning techniques. This interactive canvas will detect hand movements and landmarks using Mediapipe and will visualize the drawings on a virtual canvas using OpenCV. The project is perfect for showcasing skills in computer vision, machine learning, and Python programming.
+In this project, we have build an innovative Air Canvas that allows users to draw in the air using simple hand gestures, leveraging computer vision and machine learning techniques. This interactive canvas will detect hand movements and landmarks using Mediapipe and will visualize the drawings on a virtual canvas using OpenCV.
 
 Key Features
 - Hand Landmark Detection: Utilizes Mediapipe's hand tracking capabilities to accurately detect and track hand landmarks in real-time.
