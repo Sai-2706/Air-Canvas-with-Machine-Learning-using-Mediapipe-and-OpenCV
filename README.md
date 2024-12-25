@@ -24,8 +24,6 @@ Requirements
 - Mediapipe: Library for hand landmark detection and tracking.
 
 Installation Instructions
-1. Install Python 3 from the official website.
-2. Install the required libraries using pip: pip install numpy opencv-python mediapipe
+1. Install Python & required libraries using pip ( like: pip install numpy opencv-python mediapipe)
 
-
-This project not only highlights the application of computer vision techniques but also showcases how machine learning can be used to create interactive and engaging user experiences. It is an excellent addition to any machine learning or computer vision portfolio.
+So we can conclude that this project not only highlights the application of computer vision techniques but also showcases how machine learning can be used to create interactive and engaging user experiences. 
